@@ -18,6 +18,8 @@ pip install pandas numpy xgboost scikit-learn
 
 https://www.kaggle.com/c/titanic
 
+https://colab.research.google.com/
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
