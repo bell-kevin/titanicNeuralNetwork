@@ -20,6 +20,8 @@ https://www.kaggle.com/c/titanic
 
 https://colab.research.google.com/
 
+XGBoost (Extreme Gradient Boosting): This is a specific implementation of gradient boosting, which is another ensemble technique. In gradient boosting, decision trees are built sequentially, where each new tree attempts to correct the errors made by the previous trees. XGBoost is known for its efficiency and performance, and it includes features like regularization to prevent overfitting, handling missing values, and parallel processing.
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
