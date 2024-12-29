@@ -2,6 +2,22 @@
 
 # 
 
+How to Use This Notebook
+
+1. Make sure you have train.csv and test.csv (from Kaggle’s Titanic competition) in the same directory as the notebook file.
+
+2. Install the required libraries if you haven’t already:
+
+pip install pandas numpy xgboost scikit-learn
+
+(Or install them via conda/your environment manager of choice.)
+
+3. Run the notebook cells from top to bottom.
+
+4. The final cell produces a file named submission_xgb.csv, which you can upload to Kaggle.
+
+https://www.kaggle.com/c/titanic
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
